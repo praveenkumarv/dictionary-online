@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Dictionary Online",
+    "short_name": "Search",
+    "description": "Search selected word in multiple online dictionaries",
+    "author":"Praveen Kumar Vishwanatha",
+    "version": "1.0.0",
+    "minimum_chrome_version": "35",
+    "icons": {
+        "16": "dictionary-16.png",
+        "48": "dictionary-48.png",
+        "128": "dictionary-128.png"
+    },
+    "permissions": ["contextMenus"],
+    "background": {
+        "page": "window.html"
+    }
+}
