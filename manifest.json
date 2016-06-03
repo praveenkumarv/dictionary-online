@@ -7,9 +7,9 @@
     "version": "1.0.0",
     "minimum_chrome_version": "35",
     "icons": {
-        "16": "assets/dictionary-16.png",
-        "48": "assets/dictionary-48.png",
-        "128": "assets/dictionary-128.png"
+        "16": "dictionary-16.png",
+        "48": "dictionary-48.png",
+        "128": "dictionary-128.png"
     },
     "permissions": ["contextMenus"],
     "background": {
